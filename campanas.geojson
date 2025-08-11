@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.06895146, -36.59434421]
+      },
+      "properties": {
+        "name": "1 Campanas Villa Barcelona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09218303, -36.63258689]
+      },
+      "properties": {
+        "name": "12 Campanas Estadio Anfa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0625952, -36.59283113]
+      },
+      "properties": {
+        "name": "2 Campanas Condominio Plaza El Real"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0721677, -36.58751662]
+      },
+      "properties": {
+        "name": "2 Campanas Villa Emanuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0897442, -36.62395213]
+      },
+      "properties": {
+        "name": "2 Campanas Calle La Pampa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09226121, -36.62345512]
+      },
+      "properties": {
+        "name": "2 Campanas Calle La Candelaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09115507, -36.62240357]
+      },
+      "properties": {
+        "name": "2 Campanas Calle La Candelaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.078104, -36.63020754]
+      },
+      "properties": {
+        "name": "2 Campanas Doña Francisca I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.07033848, -36.63117002]
+      },
+      "properties": {
+        "name": "2 Campanas Doña Francisca III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.06705785, -36.60542102]
+      },
+      "properties": {
+        "name": "2 Campanas Villa Los Dominicos La Campiña"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.07198341, -36.605978]
+      },
+      "properties": {
+        "name": "2 Campanas Villa Los Dominicos Villa Verde Parque I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0827512, -36.61479795]
+      },
+      "properties": {
+        "name": "2 Campanas Paseo Aragon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.09070204, -36.58970594]
+      },
+      "properties": {
+        "name": "3 Campanas en Parque Deportivo Quilamapu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.11356062, -36.60286873]
+      },
+      "properties": {
+        "name": "2 Campanas Cancha del Avance, UltraEstacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.08477257, -36.60787086]
+      },
+      "properties": {
+        "name": "2 Campanas Cancha Atlanta, Pobl. Chillancito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.06361666, -36.60376623]
+      },
+      "properties": {
+        "name": "2 Campanas Villa Los Dominicos III San Alberto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.12339178, -36.61372009]
+      },
+      "properties": {
+        "name": "2 Campanas Pobl Vicente Perez Cancha de Futbol"
+      }
+    }
+  ]
+}
